@@ -1,2 +1,2 @@
 ### Welcome
-This monorepo is a short showcase of one of the small projects I created during my data science course. The ipython notebook consists of the following tasks: data transformation, data visualisation, and a basic machine learning classification (model training and evaluation through performance metrics)
+This repo is a short showcase of one of the small projects I created during my data science course. The ipython notebook consists of the following tasks: data transformation, data visualisation, and a basic machine learning classification (model training and evaluation through performance metrics)
